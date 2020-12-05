@@ -24,6 +24,7 @@ aSpigot takes into account staff players when getting onLinePlayers and other va
 The api is pretty much self explanatory 
 
 ##Server
+
 ###States
 aLib comes with predefining server states such as STARTING, RUNNING, and STOPPING.
 When a server is not in state other than RUNNING, they will be disconnected for the state reason.
